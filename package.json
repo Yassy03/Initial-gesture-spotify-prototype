@@ -1,0 +1,21 @@
+{
+  "name": "gesture-control-test",
+  "version": "1.0.0",
+  "main": "sketch.js",
+  "scripts": {
+  "start": "vite",
+  "dev": "vite",
+  "build": "vite build"
+}
+,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@mediapipe/tasks-vision": "^0.10.20"
+  },
+  "devDependencies": {
+    "vite": "^6.0.5"
+  }
+}
